@@ -1,4 +1,4 @@
-# Olá, eu sou Henrique! 👋
+# Carlos Henrique
 
 Tenho 17 anos e estou iniciando minha jornada profissional com foco em automação de processos e inteligência artificial aplicada. Aprendo construindo cada projeto que é um problema real que pode ser resolvido na prática. Atualmente estou aprendendo e desenvolvendo workflows com n8n, integrando LLMs e criando bots que realmente funcionam.
 
