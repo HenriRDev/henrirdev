@@ -25,6 +25,3 @@ Tenho 17 anos e estou iniciando minha jornada profissional com foco em automaç�
 | [HabitTracker](https://github.com/HenriRDev/HabitTracker)                   | Bot de registro de hábitos via Telegram com IA | n8n, Groq, Google Sheets       |
 | [automacao-sorteio-n8n](https://github.com/HenriRDev/automacao-sorteio-n8n) | Bot de cadastro via Telegram com state machine | n8n, PostgreSQL, Google Sheets |
 
----
-
-> *"Automatize o que é repetitivo, e foque no que realmente importa."*
